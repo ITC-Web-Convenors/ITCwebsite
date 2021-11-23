@@ -47,7 +47,7 @@ https://www.tooplate.com/view/2119-gymso-fitness
     --font-weight-thin:     100;
 
     --h1-font-size:         48px;
-    --h2-font-size:         36px;
+    --h2-font-size:         70px;
     --h3-font-size:         28px;
     --h4-font-size:         24px;
     --h5-font-size:         22px;
@@ -106,7 +106,7 @@ https://www.tooplate.com/view/2119-gymso-fitness
   }
 
   h6 {
-    color: var(--gray-color);
+    /* color: var(--gray-color); */
     font-size: var(--h6-font-size);
     line-height: inherit;
     margin: 0;
@@ -193,7 +193,7 @@ https://www.tooplate.com/view/2119-gymso-fitness
   }
 
   a {
-    color: var(--link-color);
+    color: var(--white-color);
     font-weight: normal;
     text-decoration: none;
     transition: all 0.3s ease;
